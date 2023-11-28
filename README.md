@@ -1,4 +1,4 @@
-# Minor_Project
+# Detecting Early Phase Breast Cancer using Hybrid Machine Learning Algorithms
 
 ### Abstract
 Breast cancer is the most common cancer among women. It occurs when a few breast cells begin to grow abnormally. The Wisconsin Kaggle dataset is used for this experiment. This study is aimed to predict breast cancer using hybrid machine learning approaches, applying ML models like Support Vector Machine (SVM) and Principal Component Analysis (PCA). In our project, we are implementing Hybrid algorithms using PCA and SVM and optimizing SVM with k-fold cross-validation for predicting Breast cancer at early stages with high accuracy. The goal is to increase the proportion of breast cancer detection at early stages and to reduce error rate with maximum accuracy. The Hybrid model, a combination of PCA with SVM got an accuracy of 96% and its performance is better when compared with traditional SVM.
